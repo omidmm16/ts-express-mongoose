@@ -1,0 +1,6 @@
+
+{
+    "mongoURI":"mongodb://localhost:27017/test4",
+    "jwtSecret":"dafdfafdafdsf",
+    "jwtExpiration":36000
+}
